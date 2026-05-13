@@ -1,1 +1,1 @@
-
+n=int(input("Enter the number of elements in the list: "))
