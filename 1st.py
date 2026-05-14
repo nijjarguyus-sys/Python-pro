@@ -1,1 +1,3 @@
-n=int(input("Enter the number of elements in the list: "))
+import pandas as pd
+df=pd.read_csv("C:\Users\singhha1\Desktop\student.csv")
+print(df)
